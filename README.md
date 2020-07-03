@@ -1,8 +1,9 @@
 <br/>
 
-# arduino-mqtt-light
+# nodemcu-mqtt-light
 
-Connects to home assistant using MQTT, and sets neopixels accordingly.
+Arduino program to connect an NodeMCU to home assistant with the help of MQTT. 
+The program is made to turn control an neopixel strip. It also accepts effects.
 
 <br/>
 
